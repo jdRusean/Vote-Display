@@ -12,7 +12,7 @@ Download the Windows ZIP under **Assets**. The **Code → Download ZIP** and aut
 
 ## Request Google sign-in access
 
-**Before connecting Google Sheets, email [cedidags@gmail.com](mailto:cedidags@gmail.com) with the Google email address you intend to use.**
+**Before connecting Google Sheets, email [cedidags@gmail.com](mailto:rusnogadi@gmail.com) with the Google email address you intend to use.**
 
 The app currently uses Google's OAuth **Testing** mode. Only Google accounts added to its approved test-user list can authorize Google Sheets access. Wait for confirmation that your account has been added, then sign in with that same account.
 
