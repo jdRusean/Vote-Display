@@ -56,6 +56,6 @@ Closing the main Studio window closes its floating overlays and stops updates. S
 
 ## Contact
 
-For tester access, questions, or feedback: **[cedidags@gmail.com](mailto:cedidags@gmail.com)**.
+For tester access, questions, or feedback: **[cedidags@gmail.com](mailto:rusnogadi@gmail.com)**.
 
 This is an early-access desktop test build. This repository distributes the packaged app and documentation; application source code is not included.
